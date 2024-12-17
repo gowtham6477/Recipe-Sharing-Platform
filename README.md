@@ -1,2 +1,2 @@
 # Recipe-Sharing-Platform
-![screenshot.png]()
+![Preview](screenshot.png)
